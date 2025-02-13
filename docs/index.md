@@ -1,10 +1,11 @@
-# 🎉 React Clipboard Tutorial
+# 🎉 React learning platform guide
 
-Welcome to this step-by-step tutorial on how to build a **React app** with 
-dynamic static content.
+Welcome to this learning guide! Navigate to the content that you are most interested in or come along for the ride and build a full blown progressive **React app** 
 
 ## 📌 Getting Started
-1. Install dependencies:
+### Set up your local environment
+1. 
+### Create the project:
    ```sh
    npx create-react-app example-
    cd react-clipboard
