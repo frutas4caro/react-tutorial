@@ -3,7 +3,7 @@
 
 # 🎉 React learning guide
 
-Welcome to this guide! Go to the content that you are interested in or come along and build a full blown progressive **React app**
+Welcome to this guide! Navigate to the content that you are interested in or build a full blown progressive **React app**
 
 ## 📌 Getting Started
 ### Set up your local environment
