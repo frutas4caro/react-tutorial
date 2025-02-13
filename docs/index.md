@@ -1,6 +1,9 @@
-# 🎉 React learning platform guide
+<link rel="stylesheet" href="style.css">
 
-Welcome to this learning guide! Navigate to the content that you are most interested in or come along for the ride and build a full blown progressive **React app** 
+
+# 🎉 React learning guide
+
+Welcome to this guide! Go to the content that you are interested in or come along and build a full blown progressive **React app**
 
 ## 📌 Getting Started
 ### Set up your local environment

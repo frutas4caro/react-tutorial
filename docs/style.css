@@ -1,0 +1,18 @@
+body {
+  background-color: white; /* Dark background */
+  color: black; /* Light text */
+  font-family: Raleway, sans-serif	;
+  text-align: left;
+}
+
+h1, h2, h3 {
+  color: #058c93; /* Teal color for headings */
+}
+
+a {
+  color: #ff5722; /* Orange links */
+}
+
+a:hover {
+  color: #ff9800; /* Lighter orange on hover */
+}
